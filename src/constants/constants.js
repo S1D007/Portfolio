@@ -34,7 +34,7 @@ Play music while you are Coding
   {
     title: 'Pokedex',
     description: "This is a Website which I had created using ReactJS and a Pokemon Api. This Website seems Old but uses Great Technologies Like Axios For Fetching Data and NextJS for making it and Every Thing a simple NextJS application needed",
-    image: '/images/4.png',
+    image: 'https://siddhant.vercel.app/images/4.png',
     tags: ['Next', 'Api', 'React'],
     source: 'https://google.com',
     visit: null,
